@@ -1,4 +1,4 @@
-### Hi there 👋
+### just a high school student trying to survive. and maybe make some cool stuff. ✨🧁🪷
 
 <!--
 **srinithimohan/srinithimohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
