@@ -1,4 +1,4 @@
-## hi, i'm srinithi! (she/her)
+## hi, i'm srinithi!
 ### cs @ unc
 
 <!--
