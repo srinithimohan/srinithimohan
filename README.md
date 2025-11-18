@@ -1,4 +1,5 @@
-## Hi there 👋
+## hi, i'm srinithi! (she/her)
+### cs @ unc
 
 <!--
 **srinithimohan/srinithimohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
