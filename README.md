@@ -21,6 +21,6 @@ i'm also someone who loves to spend time outdoors, create art, and meet new peop
 
 ### ❀ find me!
 
-- 𓆝 linkedin: [in/srinithi-mohan](https://www.linkedin.com/in/srinithi-mohan/)
-- 𓆟 email: [srimohan@unc.edu](mailto:srimohan@unc.edu)
-- 𓆞 github: [@srinithimohan](https://github.com/srinithimohan)
+- ✮ linkedin: [in/srinithi-mohan](https://www.linkedin.com/in/srinithi-mohan/)
+- ✮ email: [srimohan@unc.edu](mailto:srimohan@unc.edu)
+- ✮ github: [@srinithimohan](https://github.com/srinithimohan)
