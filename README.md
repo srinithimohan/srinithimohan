@@ -11,7 +11,7 @@
 
 <p align="center">⋆｡❀˚✮˚❀｡⋆</p>
 
-my goal as an engineer is to push the boundaries of current tech and building software that improves the lives of both developers and users.
+my goal as an engineer is to push the boundaries of current tech and build software that improves the lives of both developers and users.
 
 i'm also someone who loves to spend time outdoors, create art, and meet new people.
 
