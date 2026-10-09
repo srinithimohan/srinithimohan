@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/srinithi-mohan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="mailto:srimohan@unc.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="https://github.com/srinithimohan"><img src="https://komarev.com/ghpvc/?username=noorps&style=flat&color=1e90ff&label=profile+views" alt="profile views" /></a>
 </p>
 
 <p align="center">⋆｡❀˚✮˚❀｡⋆</p>
